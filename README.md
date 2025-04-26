@@ -34,13 +34,8 @@ try {
 const escaped = escapehtml("<p>ini tag html</p>");
 console.log("✨ escaped html:", escaped);
 
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-JavaScript
-IGNORE_WHEN_COPYING_END
-⚙️ opsi konfigurasi
+
+## ⚙️ OPSI KONFIGURASI
 opsi	deskripsi	default
 throwerror	jika true, akan melempar error jika xss terdeteksi.	false
 logtoservice	jika true, akan mengirim informasi tentang xss yang terdeteksi ke layanan pemantauan (anda perlu mengimplementasikannya).	false
