@@ -1,0 +1,26 @@
+{
+  "name": "wanzofc-hunter",
+  "version": "1.0.0",
+  "description": "A utility for detecting and sanitizing strings to prevent XSS attacks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xss",
+    "security",
+    "sanitize",
+    "string",
+    "utility"
+  ],
+  "author": "WANZOFC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wulandari-tech/wanzofc-hunter.git" 
+  },
+  "bugs": {
+    "url": "https://github.com/wulandari-tech/wanzofc-hunter/issues" 
+  },
+  "homepage": "https://github.com/wulandari-tech/wanzofc-hunter#readme"
+}
